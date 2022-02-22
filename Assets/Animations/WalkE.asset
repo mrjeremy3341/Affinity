@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02f1da0b6abdb7d45aa4315eccab639b, type: 3}
+  m_Name: WalkE
+  m_EditorClassIdentifier: 
+  cels:
+  - sprite: {fileID: 7260949174912855886, guid: 83c1d2d8b43e6714faf4dc41a921e315, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: 8722092134855080908, guid: 83c1d2d8b43e6714faf4dc41a921e315, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: -4120689074313188874, guid: 83c1d2d8b43e6714faf4dc41a921e315, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: -2389806263781890443, guid: 83c1d2d8b43e6714faf4dc41a921e315, type: 3}
+    drivers:
+      keys: []
+      values: 
+  controlDriver:
+    name: 
+    autoIncrement: 0
+    percentageBased: 0
+    guid: 68e780ee-e1a7-4e64-a75b-c77a5a5108ef
+  drivers:
+    keys: []
+    values: 

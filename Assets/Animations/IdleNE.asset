@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02f1da0b6abdb7d45aa4315eccab639b, type: 3}
+  m_Name: IdleNE
+  m_EditorClassIdentifier: 
+  cels:
+  - sprite: {fileID: 8967523881943671429, guid: bf96c27d582b9d74da44a0e22c060485, type: 3}
+    drivers:
+      keys: []
+      values: 
+  controlDriver:
+    name: 
+    autoIncrement: 0
+    percentageBased: 0
+    guid: eaf21152-86ff-41b1-8b00-3f7be696b751
+  drivers:
+    keys: []
+    values: 

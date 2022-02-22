@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02f1da0b6abdb7d45aa4315eccab639b, type: 3}
+  m_Name: WalkN
+  m_EditorClassIdentifier: 
+  cels:
+  - sprite: {fileID: -8986801256532181567, guid: 8ff2eddce619adc478cb14810ac98957, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: 8593976403338073483, guid: 8ff2eddce619adc478cb14810ac98957, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: -582722541289558747, guid: 8ff2eddce619adc478cb14810ac98957, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: 7089612128031100817, guid: 8ff2eddce619adc478cb14810ac98957, type: 3}
+    drivers:
+      keys: []
+      values: 
+  controlDriver:
+    name: 
+    autoIncrement: 0
+    percentageBased: 0
+    guid: 1b34bae4-77e5-420a-882c-ab7d0d8c17a6
+  drivers:
+    keys: []
+    values: 
